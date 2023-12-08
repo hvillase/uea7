@@ -9,3 +9,6 @@ Telegram
 ## Tecnologías de creación
 [Gimp](https://www.gimp.org/): Editor de fotografía.  
 [Audacity](https://www.audacityteam.org/): Editor de sonido.  
+
+## Recursos de medios
+[Search Creative Commons](https://search.creativecommons.org/)  
