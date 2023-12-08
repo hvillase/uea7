@@ -2,9 +2,9 @@
 Repositorio de la UEA Producción y comunicación en la cultura colaborativa  
 
 ## Tecnologías de comunicación
-pad.disroot.org
-discord
-Telegram
+pad.disroot.org  
+[Discord](https://discord.com/): Plataforma de comunicación para videojuegos y comunidades.  
+Telegram  
 
 ## Tecnologías de creación
 [Gimp](https://www.gimp.org/): Editor de fotografía.  
