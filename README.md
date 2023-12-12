@@ -2,7 +2,7 @@
 Repositorio de la UEA Producción y comunicación en la cultura colaborativa  
 
 ## Tecnologías de comunicación
-pad.disroot.org  
+[pad.disroot.org](https://pad.disroot.org/)  
 [Discord](https://discord.com/): Plataforma de comunicación para videojuegos y comunidades.  
 Telegram  
 
@@ -12,3 +12,4 @@ Telegram
 
 ## Recursos de medios
 [Search Creative Commons](https://search.creativecommons.org/)  
+Sonido hola por tallers  
