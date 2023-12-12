@@ -7,8 +7,14 @@ Repositorio de la UEA Producción y comunicación en la cultura colaborativa
 Telegram  
 
 ## Tecnologías de creación
+
+### Imagen
 [Gimp](https://www.gimp.org/): Editor de fotografía.  
+[Inkscape](https://inkscape.org/es/): Dibujo con vectores.
+
+### Sonido
 [Audacity](https://www.audacityteam.org/): Editor de sonido.  
+[Ardour](https://ardour.org/): Editor y estación de trabajo de audio.  
 
 ## Recursos de medios
 [Search Creative Commons](https://search.creativecommons.org/)  
