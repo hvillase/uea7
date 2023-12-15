@@ -16,6 +16,9 @@ Telegram
 [Audacity](https://www.audacityteam.org/): Editor de sonido.  
 [Ardour](https://ardour.org/): Editor y estación de trabajo de audio.  
 
+### Video
+[OpenShot](https://www.openshot.org/es/)  
+
 ## Recursos de medios
 [Search Creative Commons](https://search.creativecommons.org/)  
 Sonido hola por tallers  
