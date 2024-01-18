@@ -19,6 +19,9 @@ Telegram
 ### Video
 [OpenShot](https://www.openshot.org/es/)  
 
+## Tecnologías de difusión
+[Generador de QR](https://parzibyte.me/apps/generador-qr/)  
+
 ## Recursos de medios
 [Search Creative Commons](https://search.creativecommons.org/)  
 Sonido hola por tallers  
